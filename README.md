@@ -23,3 +23,8 @@ Must be included for evaluaton at code level and while checking conformance to P
 
 ##### Preview
 ![hacker-news](https://github.com/Deepak003/hnclone-react-hooks-pwa-test/blob/master/newsreader-preview.png)
+
+##### Preview : Test Cases in JEST
+https://github.com/Deepak003/hnclone-react-hooks-pwa-test/blob/master/Failed%20Tests-newsreader.PNG
+
+https://github.com/Deepak003/hnclone-react-hooks-pwa-test/blob/master/Passed%20Test-newsreader.PNG
