@@ -1,5 +1,9 @@
 ## Building a newsreader using the HackerNews Algolia Api, React, React Testing Library, Service Worker (PWA ) ,Styled Components, Axios & Memo.
 
+##### Deployed Url : 
+https://hn-hooks-pwa-infinitescroll-seo-deepak.netlify.app
+
+
 This application is a newsreader that calls the Hackernews Api. This project was built using React (create-react-app as a base) and the technologies used were :-
 1. React (Custom Hooks)
 2. Styled Components, 
