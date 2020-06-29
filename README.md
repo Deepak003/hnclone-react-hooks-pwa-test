@@ -18,5 +18,8 @@ The original submission was developed keeping MVP and best architecture practice
 This project should be considered as an extension to the original submission and was done this way in order to prevent any crashes or errors to orignal submission
 Must be included for evaluaton at code level and while checking conformance to Problem Description.
 
-##### Preview :
+##### Preview :PWA
+![hacker-news](https://github.com/Deepak003/hnclone-react-hooks-pwa-test/blob/master/pwa-hnclone.png)
+
+##### Preview
 ![hacker-news](https://github.com/Deepak003/hnclone-react-hooks-pwa-test/blob/master/newsreader-preview.png)
