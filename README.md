@@ -1,4 +1,4 @@
-## Building a newsreader using the HackerNews Algolia Api, React, React Testing Library, Service Worker (PWA ) ,Styled Components, Axios & Memo.
+## Building a newsreader using the HackerNews Algolia Api, React, React Testing Library, Service Worker (PWA ) ,Infinite-Scrolliong & React-Memos , 100% Google LA Score.
 
 ##### Deployed Url : 
 https://hn-hooks-pwa-infinitescroll-seo-deepak.netlify.app
@@ -20,6 +20,9 @@ Must be included for evaluaton at code level and while checking conformance to P
 
 ##### Preview :PWA
 ![hacker-news](https://github.com/Deepak003/hnclone-react-hooks-pwa-test/blob/master/pwa-hnclone.png)
+
+##### Preview :Google LHA Score : Perf + Best Practices + PWA + SEO
+![hacker-news](https://github.com/Deepak003/hnclone-react-hooks-pwa-test/blob/master/100-Google-LHA-PWA.PNG)
 
 ##### Preview
 ![hacker-news](https://github.com/Deepak003/hnclone-react-hooks-pwa-test/blob/master/newsreader-preview.png)
